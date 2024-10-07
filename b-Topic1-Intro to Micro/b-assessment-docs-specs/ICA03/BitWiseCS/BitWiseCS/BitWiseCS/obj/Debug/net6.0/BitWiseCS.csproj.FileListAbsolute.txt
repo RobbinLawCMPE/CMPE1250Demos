@@ -1,0 +1,15 @@
+C:\Carlos\BitWiseCS\BitWiseCS\bin\Debug\net6.0\BitWiseCS.exe
+C:\Carlos\BitWiseCS\BitWiseCS\bin\Debug\net6.0\BitWiseCS.deps.json
+C:\Carlos\BitWiseCS\BitWiseCS\bin\Debug\net6.0\BitWiseCS.runtimeconfig.json
+C:\Carlos\BitWiseCS\BitWiseCS\bin\Debug\net6.0\BitWiseCS.dll
+C:\Carlos\BitWiseCS\BitWiseCS\bin\Debug\net6.0\BitWiseCS.pdb
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.csproj.AssemblyReference.cache
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.AssemblyInfoInputs.cache
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.AssemblyInfo.cs
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.csproj.CoreCompileInputs.cache
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.dll
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\refint\BitWiseCS.dll
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.pdb
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\BitWiseCS.genruntimeconfig.cache
+C:\Carlos\BitWiseCS\BitWiseCS\obj\Debug\net6.0\ref\BitWiseCS.dll
