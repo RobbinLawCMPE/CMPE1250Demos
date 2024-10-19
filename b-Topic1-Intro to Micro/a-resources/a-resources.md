@@ -6,6 +6,10 @@
 
 - [Using C with the 9S12 PDF](./Using-C-with-the-9S12.pdf)
 
+- [C for C# Programmers](./C-for-Csharp-Programmers.pdf)
+
+- [C language reference by cppreference.com WEBSITE](https://en.cppreference.com/w/c)
+
 - [Old Note Package CP1503 PDF](./Old-Note-Package-CP1503.pdf)
 
 - [MC9S12XDP512RMV2 Data Sheet 1348 pages](./MC9S12XDP512RMV2.pdf)
